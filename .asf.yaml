@@ -13,5 +13,5 @@ pelican:
   notify: andreww@apache.org
   # autobuild: preview/*
   theme: theme/apache
-  whoami: asf-site
+  whoami: main
   target: asf-site
