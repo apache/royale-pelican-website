@@ -4,7 +4,7 @@ title: Cookbook
 
 [TOC]
 
-This describes a project community cookbook.
+This describes a project community cookbook. 
 
 ### About
 
