@@ -2,7 +2,7 @@
 
 This site uses the Apache Pelican template. 
 
-[Apache Template](https://template.staged.apache.org/)
+[Apache Template](https://template.staged.apache.org/).
 
 This repository provides a website template for [ASF-Pelican](https://infra.apache.org/asf-pelican.html). That page, and pages linked from it, provide extensive documentation on how to deploy the template.
 
