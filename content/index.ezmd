@@ -1,37 +1,20 @@
-Title: What is Apache Petri?
+Title: Apache Royale site migration project
 version: 1.0
 <!-- Licensed under ALv2 -->
 
-![[]Apache Petri Logo](images/logo.svg) {.float-right}
+This is a test whether we can use the Pelican template to publish and update the Royale website
 
-The Apache Template is an effort to show how to use **Pelican ASF**
 
-Here are various data inclusions:
+## About Royale
 
-["Title: %0, Version: %1" title version]
+  - stuff goes here
+  - and more stuff
+  - other stuff
 
-[include "projects/projects.snippet"]
 
-{{ relative_source_path }} - {{ version }} - [{ board[1].name }] - {{ tester }}
 
-[{ ci[boardchair][roster] }] - [{ ci[tac][chair] }] - [{ ci[infrastructureadministrator][roster] }]
+## Download Royale
+  - link
+  - another link
 
-[{ board[30].name }] - [{ eccn[11].product[0].name }] - [{ eccn[11].product[0].versions[0].version }]
-
-## About "The Apache Way" {#the-way}
-
-- [[]The Apache Way](https://www.apache.org/theapacheway/index.html)
-- [[]Sustainable Open Source](https://s.apache.org/GhnI)
-- [[]How it Works](https://www.apache.org/foundation/how-it-works.html)
-- [[]Merit](https://www.apache.org/foundation/how-it-works.html#meritocracy)
-- [[]Success at Apache](https://blogs.apache.org/foundation/category/SuccessAtApache)
-
-Please read our [[]FAQ](/faq)
-
-## Repositories and Issue Tracking
-
-- [[]Website](https://github.com/apache/template-site)
-- [[]Issues](https://github.com/apache/template-site/issues)
-
-<p>["Title: %0, Version: %1" title version]</p>
 
