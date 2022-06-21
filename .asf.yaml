@@ -17,6 +17,6 @@ pelican:
   whoami: main
 
 staging:
-  profile: pelican
-  whoami: royale-pelican-website
+  profile: royale-pelican-website
+  whoami: ~
   autostage: preview/*
