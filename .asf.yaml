@@ -1,0 +1,17 @@
+# See: https://cwiki.apache.org/confluence/display/INFRA/git+-+.asf.yaml+features
+github:
+  features:
+    # Enable issue management
+    issues: true
+
+notifications:
+  commits: andreww@apache.org
+  issues: andreww@apache.org
+  pullrequests: andreww@apache.org
+
+pelican:
+  notify: andreww@apache.org
+  # autobuild: preview/*
+  theme: theme/apache
+  whoami: main
+  target: asf-site
