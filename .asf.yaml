@@ -15,7 +15,7 @@ pelican:
   theme: theme/apache
   whoami: main
   target: asf-site
-  profile: pelican-website
 
 staging:
   whoami: asf-site
+  profile: pelican-website
