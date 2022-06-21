@@ -8,8 +8,8 @@ This repository provides a website template for [ASF-Pelican](https://infra.apac
 
 Pelican build site infrastructure is found [here](https://github.com/apache/infrastructure-pelican). (WIP)
 
-If you use this template for your project website and provide a [logo](https://www.apache.org/logos/) then
-your project should pass "[Apache Project Website Checks](https://whimsy.apache.org/site/)".
+If you use this template for your project website and provide a [logo](https://www.apache.org/logos/),
+your project should pass "[Apache Project Website Checks](https://whimsy.apache.org/site/)". 
 
 ## How to use this template
 
