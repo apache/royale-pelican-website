@@ -13,7 +13,8 @@ pelican:
   notify: andreww@apache.org
   # autobuild: preview/*
   theme: theme/apache
-  whoami: main
+  whoami: asf-site
+  target: asf-site
 
 staging:
   profile: royale-pelican-website
