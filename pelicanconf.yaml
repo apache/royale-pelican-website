@@ -2,6 +2,7 @@ site:
   name: Apache Royale
   description: Source for building and maintaining the Royale website, using the Pelican template
   logo: images/logo.png
+  site: royale.apache.org
   repository: https://github.com/apache/royale-pelican-website/blob/main/content/
   trademarks: Apache, the Apache feather logo, and "Project" are trademarks or registered trademarks
 
