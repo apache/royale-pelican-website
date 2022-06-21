@@ -11,10 +11,17 @@ This is a test whether we can use the Pelican template to publish and update the
   - and more stuff
   - other stuff
 
-
+## Documentation
+  - docs
+  - tutorials
+  - snippets
+  - link to TDJ
 
 ## Download Royale
   - link
   - another link
+
+## Contact us
+  - contact info
 
 
