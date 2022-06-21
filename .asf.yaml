@@ -5,18 +5,18 @@ github:
     issues: true
 
 notifications:
-  commits: wave@apache.org
-  issues: wave@apache.org
-  pullrequests: wave@apache.org
+  commits: andreww@apache.org
+  issues: andreww@apache.org
+  pullrequests: andreww@apache.org
 
 pelican:
-  notify: wave@apache.org
+  notify: andreww@apache.org
   autobuild: preview/*
-  target: asf-site
+  target: royale-pelican-website
   theme: theme/apache
   whoami: main
 
 staging:
-  profile: ~
-  whoami: asf-site
+  profile: pelican
+  whoami: royale-pelican-website
   autostage: preview/*
