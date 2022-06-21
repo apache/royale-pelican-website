@@ -5,12 +5,12 @@ github:
     issues: true
 
 notifications:
-  commits: andreww@apache.org
-  issues: andreww@apache.org
-  pullrequests: andreww@apache.org
-
+  commits: commits@royale.apache.org
+  issues: dev@royale.apache.org
+  pullrequests: dev@royale.apache.org
+  
 pelican:
-  notify: andreww@apache.org
+  notify: dev@royale.apache.org
   # autobuild: preview/*
   theme: theme/apache
   whoami: main
