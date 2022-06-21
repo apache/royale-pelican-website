@@ -15,8 +15,3 @@ pelican:
   theme: theme/apache
   whoami: asf-site
   target: asf-site
-
-staging:
-  profile: royale-pelican-website
-  whoami: ~
-  # autostage: preview/*
