@@ -1,9 +1,9 @@
 site:
-  name: Apache Template
-  description: Provides a template for projects wishing to use the Pelican ASF static content system
+  name: Apache Royale
+  description: Source for building and maintaining the Royale website, using the Pelican template
   domain: template.apache.org
   logo: images/logo.png
-  repository: https://github.com/apache/template-site/blob/main/content/
+  repository: https://github.com/apache/roayle-pelican-website/blob/main/content/
   trademarks: Apache, the Apache feather logo, and "Project" are trademarks or registered trademarks
 
 theme: theme/apache
