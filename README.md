@@ -1,4 +1,6 @@
-# Apache Template
+# README file
+
+This site uses the Apache Pelican template.
 
 [Apache Template](https://template.staged.apache.org/)
 
