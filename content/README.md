@@ -1,3 +1,3 @@
 Title: README
 
-This is the top level of the content tree, hehe.
+This is the top level of the content tree.
