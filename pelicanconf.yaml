@@ -7,28 +7,9 @@ site:
 
 theme: theme/apache
 
-# plugins:
-#  paths:
-#    - theme/plugins
-#  use:
-#    - gfm
-
-setup:
-  data: asfdata.yaml
-  run:
-    - /bin/bash shell.sh
-  ignore:
-    - README.md
-    - include
-    - docs
-  copy:
-    - docs
-
-genid:
-  unsafe: yes
-  metadata: yes
-  elements: yes
-  headings_depth: 4
-  permalinks: yes
-  toc_depth: 4
-  tables: yes
+plugins:
+  paths:
+    - theme/plugins
+  use:
+    - toc2
+    - gfm
