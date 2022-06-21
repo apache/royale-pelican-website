@@ -12,7 +12,6 @@ notifications:
 pelican:
   notify: andreww@apache.org
   # autobuild: preview/*
-  target: royale-pelican-website
   theme: theme/apache
   whoami: main
 
